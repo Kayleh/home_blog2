@@ -1,12 +1,1 @@
-var _hmt = _hmt || []; (function () { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?2cd1dc193190f18fed292accb735c684"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
-
-(
-    function (i, s, o, g, r, a, m) {
-        i["DaoVoiceObject"] = r; i[r] = i[r] || function () {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0];
-        a.async = 1; a.src = g; a.charset = "utf-8";
-        m.parentNode.insertBefore(a, m)
-    })(window, document, "script", ('https:' == document.location.protocol ? 'https:' : 'http:') + "//widget.daovoice.io/widget/38b1c911.js", "daovoice")
-daovoice('init', { app_id: "38b1c911" });
-daovoice('update');
+"use strict";var _hmt=_hmt||[];!function(){var e=document.createElement("script");e.src="https://hm.baidu.com/hm.js?2cd1dc193190f18fed292accb735c684";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}(),function(e,t,c,a,o,n,i){e.DaoVoiceObject=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=1*new Date,n=t.createElement(c),i=t.getElementsByTagName(c)[0],n.async=1,n.src=a,n.charset="utf-8",i.parentNode.insertBefore(n,i)}(window,document,"script",("https:"==document.location.protocol?"https:":"http:")+"//widget.daovoice.io/widget/38b1c911.js","daovoice"),daovoice("init",{app_id:"38b1c911"}),daovoice("update");_hmt=_hmt||[];!function(){var e=document.createElement("script");e.src="https://hm.baidu.com/hm.js?24f5d46da7ff42ae73ccea4ea7114e1b";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}();
