@@ -57,11 +57,11 @@ img {
 }
 
 body {
-    cursor: url(/image/default.cur), auto !important
+    cursor: url(https://cdn.kayleh.top/gh/kayleh/logo/cur/Kokomi/01.cur), auto !important
 }
 
 a, img {
-    cursor: url(/image/pointer.cur), auto !important
+    cursor: url(https://cdn.kayleh.top/gh/kayleh/logo/cur/Kokomi/04.cur), auto !important
 }
 
 a {
