@@ -72,9 +72,9 @@ a {
 
 @font-face {
     font-family: 'iconfont';  /* Project id 4460771 */
-    src: url('//at.alicdn.com/t/c/font_4460771_p85cf372w4.woff2?t=1710083947233') format('woff2'),
-    url('//at.alicdn.com/t/c/font_4460771_p85cf372w4.woff?t=1710083947233') format('woff'),
-    url('//at.alicdn.com/t/c/font_4460771_p85cf372w4.ttf?t=1710083947233') format('truetype');
+    src: url('//at.alicdn.com/t/c/font_4460771_p85cf372w4.woff2?t=1710084202424') format('woff2'),
+    url('//at.alicdn.com/t/c/font_4460771_p85cf372w4.woff?t=1710084202424') format('woff'),
+    url('//at.alicdn.com/t/c/font_4460771_p85cf372w4.ttf?t=1710084202424') format('truetype');
     font-display: auto;
 }
 
@@ -89,6 +89,9 @@ a {
     font-style: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
+}
+.icon-kaylehemail3:before {
+    content: "\e636";
 }
 
 .icon-kaylehemail:before {
@@ -118,6 +121,7 @@ a {
 .icon-kaylehopenai-fill:before {
     content: "\eac8";
 }
+
 
 
 main {
