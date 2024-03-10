@@ -57,11 +57,11 @@ img {
 }
 
 body {
-    cursor: url(https://cdn.kayleh.top/gh/kayleh/home_blog2/Kokomi/01.cur), auto !important
+    cursor: url(https://cdn.kayleh.top/gh/kayleh/next_home/Kokomi/01.cur), auto !important
 }
 
 a, img {
-    cursor: url(https://cdn.kayleh.top/gh/kayleh/home_blog2/Kokomi/04.cur), auto !important
+    cursor: url(https://cdn.kayleh.top/gh/kayleh/next_home/Kokomi/04.cur), auto !important
 }
 
 a {
@@ -91,16 +91,20 @@ a {
     -moz-osx-font-smoothing: grayscale
 }
 
-.icon-github:before {
-    content: "\e7ab"
+.icon-kaylehblogger:before {
+    content: "\e659";
 }
 
-.icon-openai:before {
-    content: "&#xeac8;"
+.icon-kaylehgithub:before {
+    content: "\e600";
 }
 
-.icon-email:before {
-    content: "\e62d"
+.icon-kaylehgithub_github:before {
+    content: "\e606";
+}
+
+.icon-kaylehopenai-fill:before {
+    content: "\eac8";
 }
 
 main {
